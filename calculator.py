@@ -1,6 +1,6 @@
 def add(a, b):
   return a + b
-def square(a)
+def square(a):
   """Return the square number"""
   return a ** 2
 # Updated from the Github web interfaces
